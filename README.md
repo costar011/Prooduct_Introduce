@@ -15,6 +15,6 @@
 | 1   | HOME SCREEN             | mu_01            | -      | []       | -             |
 | 2   | MENU SCREEN             | mu_02            | -      | []       | -             |
 | 3   | MENU2 SCREEN            | mu_03            | -      | []       | -             |
-| 4   | SOFTWARE SCREEN         | mu_04            | -      | []       | -             |
-| 5   | CONTECT SCREEN          | mu_05            | -      | []       | -             |
-| 6   | Customer Support SCREEN | mu_06            | -      | []       | -             |
+| 4   | NINTENDO 3DS SCREEN     | mu_04            | -      | []       | -             |
+| 5   | SOFTWARE SCREEN         | mu_05            | -      | []       | -             |
+| 6   | CUSTOMER SUPPORT SCREEN | mu_06            | -      | []       | -             |
