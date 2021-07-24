@@ -5,14 +5,13 @@ app = Flask(__name__)
 
 
 @app.route("/")
-@app.route("/header")
-def hedaer():
-    return render_template("hedaer.html")
+def index():
+    return render_template("base.html")
 
 
-@app.route("/footer")
-def footer():
-    return render_template("footer.html")
+@app.route("/mu1")
+def mu1():
+    return render_template("mu1.html")
 
 
 if __name__ == '__main__':
