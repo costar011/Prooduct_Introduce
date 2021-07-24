@@ -1,0 +1,50 @@
+.header {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  border-bottom: 1px solid #ffffff;
+}
+
+.header .hbtn .hBtn {
+  background: none;
+  border: none;
+  color: #e60012;
+  padding: 15px 30px;
+
+  text-decoration: none;
+  font-size: 35px;
+
+  font-weight: 600;
+}
+
+.header .hbtn2 .hBtn2 {
+  background: none;
+  border: none;
+  color: #e60012;
+  padding: 15px 30px;
+
+  text-decoration: none;
+  font-size: 20px;
+
+  margin-left: 230%;
+
+  font-weight: 600;
+}
+
+.header .hbtn3 {
+  display: flex;
+  flex-direction: row;
+}
+
+.header .hbtn3 .hBtn3 {
+  background: none;
+  border: none;
+  color: #ffffff;
+  padding: 15px 30px;
+
+  font-weight: 600;
+
+  text-decoration: none;
+  font-size: 20px;
+}

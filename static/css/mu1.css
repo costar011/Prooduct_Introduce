@@ -1,0 +1,25 @@
+.box .img {
+  width: 1450px;
+  height: 500px;
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.desc {
+  color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+
+  margin-bottom: 50px;
+  margin-left: 50px;
+}
+
+.desc p {
+  font-size: 25px;
+  font-weight: 600;
+}
