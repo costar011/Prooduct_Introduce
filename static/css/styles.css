@@ -1,6 +1,11 @@
 @import "./reset.css";
 @import "./header.css";
 @import "./mu1.css";
+@import "./mu2.css";
+@import "./mu3.css";
+@import "./mu4.css";
+@import "./mu5.css";
+@import "./footer.css";
 
 body {
   height: 100vh;

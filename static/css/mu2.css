@@ -1,0 +1,57 @@
+.descBox .desc p {
+  color: #e60012;
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+
+  border-bottom: 5px solid #e60012;
+  margin-top: 30px;
+  font-size: 30px;
+  font-weight: 600;
+}
+
+.Img {
+  display: flex;
+  flex-direction: row;
+  color: #ffffff;
+}
+
+.img1 {
+  margin-left: 60px;
+}
+
+.img1desc {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-around;
+
+  margin-left: 50px;
+  margin-top: 65px;
+
+  font-size: 25px;
+  font-weight: 600;
+}
+
+.img2 {
+  margin-right: 60px;
+}
+
+.imgBox2 .img2desc {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: space-around;
+
+  margin-right: 300px;
+
+  font-size: 25px;
+  font-weight: 600;
+}
+
+.img1desc span,
+.img2desc span {
+  margin: 10px;
+}
