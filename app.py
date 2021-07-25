@@ -14,5 +14,10 @@ def mu1():
     return render_template("mu1.html")
 
 
+@app.route("/mu2")
+def mu2():
+    return render_template("mu2.html")
+
+
 if __name__ == '__main__':
     app.run(debug=True)
