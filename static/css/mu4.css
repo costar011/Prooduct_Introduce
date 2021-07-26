@@ -5,4 +5,12 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
+
+  font-size: 25px;
+  font-weight: 600;
+  margin-top: 30px;
+}
+
+.desc p {
+  margin: 5px;
 }
