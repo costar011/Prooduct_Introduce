@@ -12,7 +12,7 @@
 
 | No  | SCRREN NAME             | SCREEN CODE NAME | WORKER | COMPLETE | COMPLETE DATE |
 | :-- | ----------------------- | ---------------- | ------ | -------- | ------------- |
-| 1   | HOME SCREEN             | mu_01            | -      | []       | -             |
+| 1   | HOME SCREEN             | mu_01            | - 7/22 | [O]      | 7/25-         |
 | 2   | MENU SCREEN             | mu_02            | -      | []       | -             |
 | 3   | MENU2 SCREEN            | mu_03            | -      | []       | -             |
 | 4   | NINTENDO 3DS SCREEN     | mu_04            | -      | []       | -             |
