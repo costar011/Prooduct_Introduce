@@ -1,0 +1,15 @@
+.desc {
+  color: #ffffff;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  font-size: 30px;
+  margin-top: 40px;
+}
+
+.desc span {
+  margin-top: 10px;
+}
