@@ -14,3 +14,13 @@
 .desc span {
   margin-top: 10px;
 }
+
+.video {
+  display: flex;
+
+  align-items: center;
+  justify-content: center;
+
+  margin-top: 20px;
+  margin-left: 50px;
+}
