@@ -26,12 +26,10 @@
   max-width: 500px;
 }
 
-.img_box1 {
+.box1-1 {
   padding: 0 80px 40px 30px;
-}
 
-.img_box2 {
-  padding: 0 80px 40px 30px;
+  margin: 0 50px 0 50px;
 }
 
 .img_desc {
