@@ -1,0 +1,29 @@
+.footer {
+  color: #ffffff;
+
+  display: flex;
+}
+
+.footer p {
+  margin-top: 10px;
+}
+
+.footer .footer1 {
+  display: flex;
+  flex-direction: column;
+
+  margin-left: 100px;
+}
+
+.footer .footer2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: space-between;
+
+  margin-left: 100px;
+}
+
+.footer .footer2 span {
+  font-size: 10px;
+}
